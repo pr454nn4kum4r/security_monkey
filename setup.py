@@ -55,7 +55,7 @@ setup(
         'sentry': ['raven[flask]==6.6.0'],
         'googleauth': ['google-auth>=1.6.3'],
         'tests': [
-            'pytest==3.4.2',
+            'pytest==6.2.2',
             'nose==1.3.7',
             'mixer==6.0.1',
             'mock==2.0.0',
